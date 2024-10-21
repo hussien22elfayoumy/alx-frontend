@@ -3,20 +3,20 @@ html {
 }
 
 body {
-  background-color: #161616;
+  color: #161616;
 }
 
 a {
-  background-color: #161616;
+  color: #161616;
 }
 .visually-hidden {
   display: none;
 }
 
 .card-category {
-  background-color: #d73953;
+  color: #d73953;
 }
 
 .section-tagline {
-  background-color: #d73953;
+  color: #d73953;
 }
