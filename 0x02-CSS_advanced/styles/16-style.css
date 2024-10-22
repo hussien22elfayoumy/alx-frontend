@@ -253,5 +253,6 @@ h6 {
 
 .container {
   width: 960px;
-  margin: 0 auto;
+  margin-left: 0;
+  margin-right: 0;
 }
